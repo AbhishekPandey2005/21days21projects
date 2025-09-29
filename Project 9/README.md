@@ -3,7 +3,7 @@
   All the projects I have made till now in my 21Days21Projects journey
 
 # Day 10
-  Gender Style Transfer with Neural Networks
+  Creative AI Generating Art with Neural Style Transfer.
 
 # Overview: 
   This project implements a neural style transfer approach where stylistic attributes from gender-specific reference images are applied to content images while preserving their structure. The method leverages pretrained CNNs for feature extraction and optimization to generate stylized outputs.

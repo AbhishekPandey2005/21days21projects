@@ -16,12 +16,12 @@
   
   3) Loss Functions —
   
-   Content loss: Maintain key structures of the input image.
-  
-   Style loss: Capture stylistic gender patterns.
-  
-   Total variation loss: Ensure smoothness in generated results.
-  
+       Content loss: Maintain key structures of the input image.
+      
+       Style loss: Capture stylistic gender patterns.
+      
+       Total variation loss: Ensure smoothness in generated results.
+      
   4) Optimization — Iteratively refine the generated image with gradient descent to minimize combined losses.
   
   5) Visualization — Use Matplotlib and IPython display utilities to observe intermediate and final outputs.

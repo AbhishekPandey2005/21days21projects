@@ -16,11 +16,11 @@
   
   3) Loss Functions —
   
-  Content loss: Maintain key structures of the input image.
+   Content loss: Maintain key structures of the input image.
   
-  Style loss: Capture stylistic gender patterns.
+   Style loss: Capture stylistic gender patterns.
   
-  Total variation loss: Ensure smoothness in generated results.
+   Total variation loss: Ensure smoothness in generated results.
   
   4) Optimization — Iteratively refine the generated image with gradient descent to minimize combined losses.
   

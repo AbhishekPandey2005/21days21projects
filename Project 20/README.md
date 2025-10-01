@@ -8,19 +8,19 @@ This project demonstrates how to build an autonomous browser agent that can perf
 
 # Workflow
 
-    Environment Setup
+    1)Environment Setup
     
       Install and configure crewai and crewai_tools.
       
       Setup API keys for Browserbase, OpenAI, Anthropic, Groq, or Ollama depending on preferred LLMs.
     
-    Tool Integration
+    2)Tool Integration
     
       Use BrowserbaseLoadTool to control the browser programmatically.
       
       Enable navigation, clicks, form submissions, and data extraction.
     
-    Agent Creation
+    3)Agent Creation
     
       Define an AI Agent with a specific role (e.g., researcher, navigator).
     
@@ -28,7 +28,7 @@ This project demonstrates how to build an autonomous browser agent that can perf
     
       Example: “Find the latest AI research papers and summarize them.”
     
-    Automation Execution
+    4)Automation Execution
     
       The agent launches a browser instance via Browserbase.
       
@@ -36,13 +36,13 @@ This project demonstrates how to build an autonomous browser agent that can perf
       
       Stores findings in a structured format.
     
-    Evaluation & Results
+    5)Evaluation & Results
     
       Validates that the browser agent can handle dynamic content.
       
       Successfully extracts targeted data without manual browsing.
     
-    Conclusion
+    6)Conclusion
     
       The project shows how AI-driven browser automation can replace manual workflows.
       
